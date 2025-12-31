@@ -1,0 +1,8 @@
+{
+  "name": "Copy of School Management System",
+  "description": "A comprehensive, cloud-native school management platform featuring student/teacher records, fee management, ID card and certificate generation, and AI-powered communications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
